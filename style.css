@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: 'Inspiration', cursive;
+    padding: 15px;
+    margin: 5px;
+    background-image: linear-gradient(#45ea6b, #49f0ff, #f1a3b0 100%);
+}
+h1{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#981fc0, #f80379);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: none;
+}
